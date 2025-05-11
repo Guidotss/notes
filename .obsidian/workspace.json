@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "d6415c52e1ac791a",
+    "id": "3e842e72a9c2bf62",
     "type": "split",
     "children": [
       {
-        "id": "745ee6b4c164154f",
+        "id": "0634c5f150b90d14",
         "type": "tabs",
         "children": [
           {
-            "id": "c567f88a5411a15a",
+            "id": "4a3f46f79a744c5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Estrategia concreta para Web Components en Angular y Vue"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "10c0a1a83553badb",
+    "id": "9072c75134b6cda2",
     "type": "split",
     "children": [
       {
-        "id": "aaca5b5f51ade96f",
+        "id": "4858385101c533aa",
         "type": "tabs",
         "children": [
           {
-            "id": "21c0def0e983069f",
+            "id": "d3db7163c5d7c940",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "938941dd3c0eb4c7",
+            "id": "5831987093ca6a3e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "a1bfda3c9f83de16",
+            "id": "b1f1efbcc23d8510",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,48 +81,46 @@
     "width": 300
   },
   "right": {
-    "id": "1ae4b25d92dbf452",
+    "id": "fb74c14aa54ae60a",
     "type": "split",
     "children": [
       {
-        "id": "29c4071688a477bc",
+        "id": "e9299cf7c5d49c6e",
         "type": "tabs",
         "children": [
           {
-            "id": "9a6203289af0bf11",
+            "id": "7f09852f2a42e164",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Futuros arreglos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Futuros arreglos"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0a8ab4d3f6f816d9",
+            "id": "3a58dccb3af6ba95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seguridad/Explotación de Vulnerabilidades Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Explotación de Vulnerabilidades Web"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f8634e7a20193700",
+            "id": "7015e7eac5f4d021",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +135,7 @@
             }
           },
           {
-            "id": "a20f7d53f031a522",
+            "id": "445d40f53894292d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -145,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "761f2cc3db1500ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,36 +172,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a20f7d53f031a522",
+  "active": "4a3f46f79a744c5e",
   "lastOpenFiles": [
-    "README.md",
-    "Futuros arreglos.md",
-    "ignore.md",
-    "Untitled.canvas",
     "nx-microfrontend/Microfrontend con NX y Module federation.md",
-    "Seguridad/Inyección de Comandos.md",
+    "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
     "Seguridad/Explotación de Vulnerabilidades Web.md",
     "nx-microfrontend",
-    "guithub/Formas de acceso/Acceso por HTTP (Smart HTTP).md",
     "guithub/Formas de acceso/Formas de acceso a los repos.md",
+    "guithub/Formas de acceso/Acceso por SSH.md",
+    "guithub/Formas de acceso/Acceso por HTTP (Smart HTTP).md",
+    "guithub/Repositorios bare.md",
+    "guithub/Post-receive hooks.md",
+    "guithub/Git http backend.md",
+    "guithub/Generales.md",
+    "guithub/Formas de acceso",
+    "guithub/Escalabilidad.md",
+    "guithub/Backend.md",
     "guithub/Arquitectura del proyecto.md",
     "guithub/Almacenamiento.md",
-    "guithub/Formas de acceso/Acceso por SSH.md",
-    "guithub/Generales.md",
-    "guithub/Post-receive hooks.md",
-    "guithub/Repositorios bare.md",
-    "guithub/Git http backend.md",
-    "guithub/Backend.md",
-    "guithub/Escalabilidad.md",
-    "Acceso.md",
-    "git-http-backend.md",
-    "Acceso por HTTP (Smart HTTP).md",
-    "Acceso por SSH (recomendado al inicio).md",
-    "guithub/Formas de acceso",
     "guithub",
+    "Seguridad/Inyección de Comandos.md",
     "Seguridad"
   ]
 }
