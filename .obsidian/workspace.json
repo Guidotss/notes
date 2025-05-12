@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0634c5f150b90d14",
+        "id": "85f3993c24d3d1d4",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3f46f79a744c5e",
+            "id": "f4282e07efc48cee",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
-                "bFile": "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
-                "aRef": ""
+                "file": "nx-microfrontend/2. Default config.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1. Estrategia concreta para Web Components en Angular y Vue"
+              "icon": "lucide-file",
+              "title": "2. Default config"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "nx-microfrontend/2. Default config.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2. Default config"
             }
           },
           {
@@ -176,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a4fae92e9561690",
+  "active": "f4282e07efc48cee",
   "lastOpenFiles": [
+    "nx-microfrontend/2. Default config.md",
     "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
     "nx-microfrontend/Microfrontend con NX y Module federation.md",
     "Seguridad/Explotación de Vulnerabilidades Web.md",
