@@ -11,14 +11,14 @@
             "id": "4a3f46f79a744c5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
-                "mode": "source",
-                "source": false
+                "aFile": "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
+                "bFile": "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1. Estrategia concreta para Web Components en Angular y Vue"
+              "icon": "diff",
+              "title": "Diff: 1. Estrategia concreta para Web Components en Angular y Vue"
             }
           }
         ]
@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "761f2cc3db1500ce",
+            "id": "5a4fae92e9561690",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a3f46f79a744c5e",
+  "active": "5a4fae92e9561690",
   "lastOpenFiles": [
-    "nx-microfrontend/Microfrontend con NX y Module federation.md",
     "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
+    "nx-microfrontend/Microfrontend con NX y Module federation.md",
     "Seguridad/Explotación de Vulnerabilidades Web.md",
     "nx-microfrontend",
     "guithub/Formas de acceso/Formas de acceso a los repos.md",
