@@ -11,14 +11,14 @@
             "id": "f4282e07efc48cee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "nx-microfrontend/2. Default config.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/styles.css",
+                "bFile": ".obsidian/plugins/obsidian-git/styles.css",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2. Default config"
+              "icon": "diff",
+              "title": "Diff: styles.css"
             }
           }
         ]
@@ -179,7 +179,10 @@
   },
   "active": "f4282e07efc48cee",
   "lastOpenFiles": [
+    "flutter/Sistema de Actualización de Aplicación Web Flutter.md",
+    "`.md",
     "nx-microfrontend/2. Default config.md",
+    "flutter",
     "nx-microfrontend/1. Estrategia concreta para Web Components en Angular y Vue.md",
     "nx-microfrontend/Microfrontend con NX y Module federation.md",
     "Seguridad/Explotación de Vulnerabilidades Web.md",
