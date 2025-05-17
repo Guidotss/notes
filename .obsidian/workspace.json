@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/styles.css",
-                "bFile": ".obsidian/plugins/obsidian-git/styles.css",
+                "aFile": "nx-microfrontend/3.  Micro Frontend Angular como Custom Element en  Shell React (Module Federation).md",
+                "bFile": "nx-microfrontend/3.  Micro Frontend Angular como Custom Element en  Shell React (Module Federation).md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: styles.css"
+              "title": "Diff: 3.  Micro Frontend Angular como Custom Element en  Shell React (Module Federation)"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "f4282e07efc48cee",
   "lastOpenFiles": [
+    "nx-microfrontend/3.  Micro Frontend Angular como Custom Element en  Shell React (Module Federation).md",
     "flutter/Sistema de Actualización de Aplicación Web Flutter.md",
     "`.md",
     "nx-microfrontend/2. Default config.md",
